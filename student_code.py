@@ -3,4 +3,4 @@ def square(a):
 
     return a*a
 
-print(square(2))
+square(2)
